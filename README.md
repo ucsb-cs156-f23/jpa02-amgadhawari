@@ -6,8 +6,6 @@
 Repo: https://ucsb-cs156-f23/STARTER-jpa02
 
 
-  https://jpa02-amgadhawari.dokku-02.cs.ucsb.edu
-
 
 Deployed at: http://jpa02-amgadhawari.dokku-02.cs.ucsb.edu/
 
